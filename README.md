@@ -37,6 +37,10 @@ cd detectron2
 pip install -e detectron2
 ```
 
+For linux users, also run the following command
+
+`apt-get install poppler-utils`
+
 # Train the model
 
 In the src folder there is `train.py` read the comments in it and change the paths accordingly and then run the file.
@@ -51,3 +55,10 @@ This also contains scripts for dataset conversions and common issues faced while
 # Test the model
 
 Run `main.py` in the src folder and change the paths accordingly for the folder to be tested.
+
+# Results
+Csv file generated after running the model on the test images with segregated results for each image.
+
+![Screenshot](data/images/output_csv.png)
+
+![Screenshot](data/images/output.png)
