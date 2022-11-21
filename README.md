@@ -2,10 +2,9 @@
 
 <img src="https://img.shields.io/static/v1?label=Detectron2&message=Used&color=PURPLE"/>
 
+[Collab Link](https://colab.research.google.com/drive/1W3C6nRJUkuT_Tdpd6Z73yAOzLvzLcRZJ?usp=sharing)
 
-<img src="https://img.shields.io/static/v1?label=Collab&message=LINK&color=YELLOW"/> [Collab Link](https://colab.research.google.com/drive/1W3C6nRJUkuT_Tdpd6Z73yAOzLvzLcRZJ?usp=sharing)
-
-As we have done in the [Parleg-Alpha](https://github.com/gamingflexer/parleg-alpha) project, We have successfully implemented the croping of the required part of the image from the image.
+As we have done in the [Parleg-Alpha](https://github.com/gamingflexer/parleg-alpha) project, We have successfully implemented the croping of the required part of the image.
 The project is divided into two parts because we get video footage of the boxes moving on a conveyor belt. In this project, we have implemented the OCR and Logo Detection & Recognition in a particular order. 
 
 ## Problems to solve 
