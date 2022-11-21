@@ -59,18 +59,18 @@ Run `main.py` in the src folder and change the paths accordingly for the folder 
 # Results
 Csv file generated after running the model on the test images with segregated results for each image.
 
- | Device Name | REF | LOT | Qty | Symbols
----|---|---|---|---|---
-0 | Oxygen | NML903100 | 34655 | 3 | 43567
-1 | Pulse | NML903055 | 34683 | 1 | 2369
-2 | HFNC Machine | NML903095 | 34648 | 1 | 1289
-3 | Bi-Pap | NML90311O | 34669 | 3 | 3578
-4 | ECG Machine | NML903060 | 34690 | 1 | 2578
-5 | NIBP | NML903050 | 34676 | 3 | 4127
-6 | C-Pap | NML903105 | 34662 | 3 | 19578
-7 | Infusion Pump | NML903065 | 34697 | 1 | 2589
-8 | Blood Warmer | NML903090 | 34641 | 1 | 1
-
-
+```
+|    | Device Name   | REF       | LOT   | Qty | Symbols |
+|----|---------------|-----------|-------|-----|---------|
+| 0  | Oxygen        | NML903100 | 34655 | 3   | 43567   |
+| 1  | Pulse         | NML903055 | 34683 | 1   | 2369    |
+| 2  | HFNC Machine  | NML903095 | 34648 | 1   | 1289    |
+| 3  | Bi-Pap        | NML90311O | 34669 | 3   | 3578    |
+| 4  | ECG Machine   | NML903060 | 34690 | 1   | 2578    |
+| 5  | NIBP          | NML903050 | 34676 | 3   | 4127    |
+| 6  | C-Pap         | NML903105 | 34662 | 3   | 19578   |
+| 7  | Infusion Pump | NML903065 | 34697 | 1   | 2589    |
+| 8  | Blood Warmer  | NML903090 | 34641 | 1   | 1       |
+```
 
 ![Screenshot](data/images/output.png)
